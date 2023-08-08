@@ -1,1 +1,16 @@
-
+[
+    {
+        "username": "alice",
+        "password": "password123"
+    },
+    {
+        "username": "bob",
+        "password": "securepassword"
+    },
+    {
+        "username": "eve",
+        "password": "hacker123"
+    },
+        "username": "tuni",
+        "password": "1234"
+]
